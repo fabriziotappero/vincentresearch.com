@@ -1,2 +1,1 @@
-# vincentresearch.com
-content of the website vincentresearch.com
+Repository of the website vincentresearch.com
